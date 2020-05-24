@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   button: {
-    backgroundColor: "blue",
+    backgroundColor: "red",
     padding: 20,
     borderRadius:5,
   },
